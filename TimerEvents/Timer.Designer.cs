@@ -35,16 +35,16 @@
             // 
             this.progressBar1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.progressBar1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.progressBar1.Location = new System.Drawing.Point(35, 34);
+            this.progressBar1.Location = new System.Drawing.Point(41, 64);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(477, 125);
+            this.progressBar1.Size = new System.Drawing.Size(706, 125);
             this.progressBar1.TabIndex = 0;
             // 
             // Timer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(544, 192);
+            this.ClientSize = new System.Drawing.Size(801, 279);
             this.Controls.Add(this.progressBar1);
             this.Name = "Timer";
             this.Text = "Timer";
